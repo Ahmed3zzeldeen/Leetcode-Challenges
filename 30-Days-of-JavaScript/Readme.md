@@ -13,7 +13,7 @@
 - [x] Day 03 : [To Be Or Not To Be](#)
 - [x] Day 04 : [Counter II](#)
 - **Basic Array Transformations**
-- [ ] Day 05 : [Apply Transform Over Each Element in Array](#)
+- [x] Day 05 : [Apply Transform Over Each Element in Array](#)
 - [ ] Day 06 : [Filter Elements from Array](#)
 - [ ] Day 07 : [Array Reduce Transformation](#)
 - **Function Transformations**
