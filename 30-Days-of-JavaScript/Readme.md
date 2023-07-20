@@ -14,7 +14,7 @@
 - [x] Day 04 : [Counter II](#)
 - **Basic Array Transformations**
 - [x] Day 05 : [Apply Transform Over Each Element in Array](#)
-- [ ] Day 06 : [Filter Elements from Array](#)
+- [x] Day 06 : [Filter Elements from Array](#)
 - [ ] Day 07 : [Array Reduce Transformation](#)
 - **Function Transformations**
 - [ ] Day 08 : [Function Composition](#)
