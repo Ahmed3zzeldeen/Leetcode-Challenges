@@ -15,7 +15,7 @@
 - **Basic Array Transformations**
 - [x] Day 05 : [Apply Transform Over Each Element in Array](#)
 - [x] Day 06 : [Filter Elements from Array](#)
-- [ ] Day 07 : [Array Reduce Transformation](#)
+- [x] Day 07 : [Array Reduce Transformation](#)
 - **Function Transformations**
 - [ ] Day 08 : [Function Composition](#)
 - [ ] Day 09 : [Return Length of Arguments Passed](#)
