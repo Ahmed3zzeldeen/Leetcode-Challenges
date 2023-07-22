@@ -17,7 +17,7 @@
 - [x] Day 06 : [Filter Elements from Array](#)
 - [x] Day 07 : [Array Reduce Transformation](#)
 - **Function Transformations**
-- [ ] Day 08 : [Function Composition](#)
+- [x] Day 08 : [Function Composition](#)
 - [ ] Day 09 : [Return Length of Arguments Passed](#)
 - [ ] Day 10 : [Allow One Function Call](#)
 - [ ] Day 11 : [Memoize](#)
