@@ -20,7 +20,7 @@
 - [x] Day 08 : [Function Composition](#)
 - [x] Day 09 : [Return Length of Arguments Passed](#)
 - [x] Day 10 : [Allow One Function Call](#)
-- [ ] Day 11 : [Memoize](#)
+- [x] Day 11 : [Memoize](#)
 - **Promises and Time**
 - [ ] Day 12 : [Add Two Promises](#)
 - [ ] Day 13 : [Sleep](#)
