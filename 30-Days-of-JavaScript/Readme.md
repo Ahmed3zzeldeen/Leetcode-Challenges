@@ -22,7 +22,7 @@
 - [x] Day 10 : [Allow One Function Call](#)
 - [x] Day 11 : [Memoize](#)
 - **Promises and Time**
-- [ ] Day 12 : [Add Two Promises](#)
+- [x] Day 12 : [Add Two Promises](#)
 - [ ] Day 13 : [Sleep](#)
 - [ ] Day 14 : [Execute Cancellable Function With Delay](#)
 - [ ] Day 15 : [Interval Cancellation](#)
