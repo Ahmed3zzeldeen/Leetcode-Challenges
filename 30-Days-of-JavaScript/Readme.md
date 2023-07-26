@@ -23,7 +23,7 @@
 - [x] Day 11 : [Memoize](#)
 - **Promises and Time**
 - [x] Day 12 : [Add Two Promises](#)
-- [ ] Day 13 : [Sleep](#)
+- [x] Day 13 : [Sleep](#)
 - [ ] Day 14 : [Execute Cancellable Function With Delay](#)
 - [ ] Day 15 : [Interval Cancellation](#)
 - [ ] Day 16 : [Promise Time Limit](#)
