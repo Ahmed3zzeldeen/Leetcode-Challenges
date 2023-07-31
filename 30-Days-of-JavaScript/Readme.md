@@ -25,7 +25,7 @@
 - [x] Day 12 : [Add Two Promises](#)
 - [x] Day 13 : [Sleep](#)
 - [x] Day 14 : [Execute Cancellable Function With Delay](#)
-- [ ] Day 15 : [Interval Cancellation](#)
+- [x] Day 15 : [Interval Cancellation](#)
 - [ ] Day 16 : [Promise Time Limit](#)
 - [ ] Day 17 : [Cache With Time Limit](#)
 - [x] Day 18 : [Debounce](#)
