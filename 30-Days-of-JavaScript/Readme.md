@@ -28,7 +28,7 @@
 - [ ] Day 15 : [Interval Cancellation](#)
 - [ ] Day 16 : [Promise Time Limit](#)
 - [ ] Day 17 : [Cache With Time Limit](#)
-- [ ] Day 18 : [Debounce](#)
+- [x] Day 18 : [Debounce](#)
 - [ ] Day 19 : [Execute Asynchronous Functions in Parallel](#)
 - **JSON**
 - [ ] Day 20 : [Is Object Empty](#Day-20)
