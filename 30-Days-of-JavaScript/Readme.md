@@ -29,7 +29,7 @@
 - [x] Day 16 : [Promise Time Limit](#)
 - [x] Day 17 : [Cache With Time Limit](#)
 - [x] Day 18 : [Debounce](#)
-- [ ] Day 19 : [Execute Asynchronous Functions in Parallel](#)
+- [x] Day 19 : [Execute Asynchronous Functions in Parallel](#)
 - **JSON**
 - [ ] Day 20 : [Is Object Empty](#Day-20)
 - [ ] Day 21 : [Chunk Array](#Day-21)
