@@ -31,7 +31,7 @@
 - [x] Day 18 : [Debounce](#)
 - [x] Day 19 : [Execute Asynchronous Functions in Parallel](#)
 - **JSON**
-- [ ] Day 20 : [Is Object Empty](#Day-20)
+- [x] Day 20 : [Is Object Empty](#Day-20)
 - [ ] Day 21 : [Chunk Array](#Day-21)
 - [ ] Day 22 : [Array Prototype Last](#Day-22)
 - [ ] Day 23 : [Group By](#Day-23)
