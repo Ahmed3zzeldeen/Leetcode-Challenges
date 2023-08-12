@@ -3,5 +3,5 @@
  * @return {boolean}
  */
 var isEmpty = function (obj) {
-  return ["{}", "[]"].includes(JSON.stringify(obj));
+  return Object.keys(obj).length === 0;
 };
