@@ -32,7 +32,7 @@
 - [x] Day 19 : [Execute Asynchronous Functions in Parallel](#)
 - **JSON**
 - [x] Day 20 : [Is Object Empty](#Day-20)
-- [ ] Day 21 : [Chunk Array](#Day-21)
+- [x] Day 21 : [Chunk Array](#Day-21)
 - [ ] Day 22 : [Array Prototype Last](#Day-22)
 - [ ] Day 23 : [Group By](#Day-23)
 - [ ] Day 24 : [Sort By](#Day-24)
