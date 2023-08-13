@@ -33,7 +33,7 @@
 - **JSON**
 - [x] Day 20 : [Is Object Empty](#Day-20)
 - [x] Day 21 : [Chunk Array](#Day-21)
-- [ ] Day 22 : [Array Prototype Last](#Day-22)
+- [x] Day 22 : [Array Prototype Last](#Day-22)
 - [ ] Day 23 : [Group By](#Day-23)
 - [ ] Day 24 : [Sort By](#Day-24)
 - [ ] Day 25 : [Join Two Arrays by ID](#Day-25)
