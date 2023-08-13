@@ -34,7 +34,7 @@
 - [x] Day 20 : [Is Object Empty](./solutions/day20.js)
 - [x] Day 21 : [Chunk Array](./solutions/day21.js)
 - [x] Day 22 : [Array Prototype Last](./solutions/day22.js)
-- [ ] Day 23 : [Group By](#)
+- [x] Day 23 : [Group By](./solutions/day23.js)
 - [ ] Day 24 : [Sort By](#)
 - [ ] Day 25 : [Join Two Arrays by ID](#)
 - [ ] Day 26 : [Flatten Deeply Nested Array](#)
