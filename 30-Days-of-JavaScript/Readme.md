@@ -36,7 +36,7 @@
 - [x] Day 22 : [Array Prototype Last](./solutions/day22.js)
 - [x] Day 23 : [Group By](./solutions/day23.js)
 - [x] Day 24 : [Sort By](./solutions/day24.js)
-- [ ] Day 25 : [Join Two Arrays by ID](#)
+- [x] Day 25 : [Join Two Arrays by ID](./solutions/day25.js)
 - [ ] Day 26 : [Flatten Deeply Nested Array](#)
 - [ ] Day 27 : [Compact Object](#)
 - **Classes**
