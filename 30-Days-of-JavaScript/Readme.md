@@ -38,7 +38,7 @@
 - [x] Day 24 : [Sort By](./solutions/day24.js)
 - [x] Day 25 : [Join Two Arrays by ID](./solutions/day25.js)
 - [x] Day 26 : [Flatten Deeply Nested Array](./solutions/day26.js)
-- [ ] Day 27 : [Compact Object](#)
+- [x] Day 27 : [Compact Object](./solutions/day27.js)
 - **Classes**
 - [ ] Day 28 : [Event Emitter Medium](#)
 - [ ] Day 29 : [Array Wrapper](#)
