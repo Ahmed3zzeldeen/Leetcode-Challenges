@@ -41,7 +41,7 @@
 - [x] Day 27 : [Compact Object](./solutions/day27.js)
 - **Classes**
 - [x] Day 28 : [Event Emitter Medium](./solutions/day28.js)
-- [ ] Day 29 : [Array Wrapper](#)
+- [x] Day 29 : [Array Wrapper](./solutions/day29.js)
 - [ ] Day 30 : [Calculator with Method Chaining](#)
 
 ---
