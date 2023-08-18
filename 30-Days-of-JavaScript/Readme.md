@@ -5,6 +5,8 @@
 
 **_To Join in this challenge :_** [30 days of javascript](https://leetcode.com/studyplan/30-days-of-javascript/)
 
+![100%](https://progress-bar.dev/100/?title=Done)
+
 ## All Days :
 
 - **Closures**

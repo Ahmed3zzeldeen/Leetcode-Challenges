@@ -4,7 +4,10 @@ This repository contains my solutions to various coding challenges I've complete
 
 ## List of challenges :
 
-- [30-Days-of-JavaScript](./30-Days-of-JavaScript/Readme.md)
+- [x] [30-Days-of-JavaScript](./30-Days-of-JavaScript/Readme.md) 
+![100%](https://progress-bar.dev/100/?title=Done)
+
+- [ ] [The next Challenge is 🙈?](#)
 
 ## Why I Created This Repository
 
