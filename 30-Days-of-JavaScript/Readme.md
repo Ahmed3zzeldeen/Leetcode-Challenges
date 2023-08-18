@@ -40,7 +40,7 @@
 - [x] Day 26 : [Flatten Deeply Nested Array](./solutions/day26.js)
 - [x] Day 27 : [Compact Object](./solutions/day27.js)
 - **Classes**
-- [ ] Day 28 : [Event Emitter Medium](#)
+- [x] Day 28 : [Event Emitter Medium](./solutions/day28.js)
 - [ ] Day 29 : [Array Wrapper](#)
 - [ ] Day 30 : [Calculator with Method Chaining](#)
 
