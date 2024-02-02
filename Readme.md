@@ -5,7 +5,7 @@ This repository contains my solutions to various coding challenges I've complete
 ## List of challenges :
 
 - [x] [30-Days-of-JavaScript](./30-Days-of-JavaScript/Readme.md)
-- [ ] [The next Challenge is 🙈?](#)
+- [ ] [100-Days-of-LeetCode](./100-Days-of-LeetCode//Readme.md)
 
 ## Why I Created This Repository
 
