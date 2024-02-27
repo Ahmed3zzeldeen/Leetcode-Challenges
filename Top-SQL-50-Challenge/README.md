@@ -19,7 +19,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 ## All Challenges :
 
 - **Select**
-- [ ] 01- Recyclable and Low Fat Products
+- [X] [01- Recyclable and Low Fat Products](./01-%20Recyclable%20and%20Low%20Fat%20Products.sql)
 - [ ] 02- Find Customer Referee
 - [ ] 03- Big Countries
 - [ ] 04- Article Views I
