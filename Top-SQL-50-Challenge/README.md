@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![02%](https://progress-bar.dev/02/?title=In%20progress)
+![04%](https://progress-bar.dev/04/?title=In%20progress)
 
 ## All Challenges :
 
@@ -25,13 +25,12 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 04- Article Views I
 - [ ] 05- Invalid Tweets
 - **Basic Joins**
-- [ ] 06- Basic Joins
-Replace Employee ID With The Unique Identifier
+- [ ] 06- Replace Employee ID With The Unique Identifier
 - [ ] 07- Product Sales Analysis I
 - [ ] 08- Customer Who Visited but Did Not Make Any Transactions
 - [ ] 09- Rising Temperature
 - [ ] 10- Average Time of Process per Machine
-- [ ] 11- Employee Bonus
+- [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
 - [ ] 12- Students and Examinations
 - [ ] 13- Managers with at Least 5 Direct Reports
 - [ ] 14- Confirmation Rate
