@@ -6,6 +6,8 @@ This repository contains my solutions to various coding challenges I've complete
 
 - [x] [30-Days-of-JavaScript](./30-Days-of-JavaScript/Readme.md)
 - [ ] [100-Days-of-LeetCode](./100-Days-of-LeetCode//Readme.md)
+  - [ ] [LeetCode-75-Challenge](./100-Days-of-LeetCode/LeetCode-75-Challenge/Readme.md)
+- [ ] [Top-SQL-50-Challenge](./Top-SQL-50-Challenge/README.md)
 
 ## Why I Created This Repository
 
