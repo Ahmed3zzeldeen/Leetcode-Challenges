@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![14%](https://progress-bar.dev/14/?title=In%20progress)
+![18%](https://progress-bar.dev/18/?title=In%20progress)
 
 ## All Challenges :
 
@@ -22,8 +22,8 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [01- Recyclable and Low Fat Products](./01-%20Recyclable%20and%20Low%20Fat%20Products.sql)
 - [X] [02- Find Customer Referee](./02-%20Find%20Customer%20Referee.sql)
 - [X] [03- Big Countries](./03-%20Big%20Countries.sql)
-- [ ] 04- Article Views I
-- [ ] 05- Invalid Tweets
+- [X] [04- Article Views I](./04-%20Article%20Views%20I.sql)
+- [X] [05- Invalid Tweets](./05-%20Invalid%20Tweets.sql)
 - **Basic Joins**
 - [ ] 06- Replace Employee ID With The Unique Identifier
 - [ ] 07- Product Sales Analysis I
