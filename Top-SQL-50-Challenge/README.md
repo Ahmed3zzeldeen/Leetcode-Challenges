@@ -14,14 +14,14 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![04%](https://progress-bar.dev/04/?title=In%20progress)
+![14%](https://progress-bar.dev/14/?title=In%20progress)
 
 ## All Challenges :
 
 - **Select**
 - [X] [01- Recyclable and Low Fat Products](./01-%20Recyclable%20and%20Low%20Fat%20Products.sql)
-- [ ] 02- Find Customer Referee
-- [ ] 03- Big Countries
+- [X] [02- Find Customer Referee](./02-%20Find%20Customer%20Referee.sql)
+- [X] [03- Big Countries](./03-%20Big%20Countries.sql)
 - [ ] 04- Article Views I
 - [ ] 05- Invalid Tweets
 - **Basic Joins**
@@ -45,9 +45,9 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 22- Game Play Analysis IV
 - **Sorting and Grouping**
 - [ ] 23- Number of Unique Subjects Taught by Each Teacher
-- [ ] 24- User Activity for the Past 30 Days I
-- [ ] 25- Product Sales Analysis III
-- [ ] 26- Classes More Than 5 Students
+- [X] [24- User Activity for the Past 30 Days I](./24-%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
+- [X] [25- Product Sales Analysis III](./25-%20Product%20Sales%20Analysis%20III.sql)
+- [X] [26- Classes More Than 5 Students](./26-%20Classes%20More%20Than%205%20Students.sql)
 - [ ] 27- Find Followers Count
 - [ ] 28- Biggest Single Number
 - [ ] 29- Customers Who Bought All Products
