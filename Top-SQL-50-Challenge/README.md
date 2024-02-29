@@ -25,7 +25,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [04- Article Views I](./04-%20Article%20Views%20I.sql)
 - [X] [05- Invalid Tweets](./05-%20Invalid%20Tweets.sql)
 - **Basic Joins**
-- [ ] 06- Replace Employee ID With The Unique Identifier
+- [X] [06- Replace Employee ID With The Unique Identifier](./06-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
 - [ ] 07- Product Sales Analysis I
 - [ ] 08- Customer Who Visited but Did Not Make Any Transactions
 - [ ] 09- Rising Temperature
