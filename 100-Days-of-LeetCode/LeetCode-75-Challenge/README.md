@@ -61,7 +61,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Reverse Linked List
 - [ ] Maximum Twin Sum of a Linked List
 - **Binary Tree - DFS**
-- [ ] Maximum Depth of Binary Tree
+- [X] [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.java)
 - [ ] Leaf-Similar Trees
 - [ ] Count Good Nodes in Binary Tree
 - [ ] Path Sum III
