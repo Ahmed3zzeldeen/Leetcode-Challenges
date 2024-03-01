@@ -1,0 +1,4 @@
+/* Write your PL/SQL query statement below */
+select P.product_name , S.year , S.price
+from Sales as S join Product as P
+on S.product_id = P.product_id;
