@@ -27,7 +27,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - **Basic Joins**
 - [X] [06- Replace Employee ID With The Unique Identifier](./06-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
 - [X] [07- Product Sales Analysis I](./07-%20Product%20Sales%20Analysis%20I.sql)
-- [ ] 08- Customer Who Visited but Did Not Make Any Transactions
+- [X] [08- Customer Who Visited but Did Not Make Any Transactions](./08-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
 - [ ] 09- Rising Temperature
 - [ ] 10- Average Time of Process per Machine
 - [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
