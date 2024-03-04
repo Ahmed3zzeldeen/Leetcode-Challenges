@@ -29,7 +29,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [07- Product Sales Analysis I](./07-%20Product%20Sales%20Analysis%20I.sql)
 - [X] [08- Customer Who Visited but Did Not Make Any Transactions](./08-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)
 - [X] [09- Rising Temperature](./09-%20Rising%20Temperature.sql)
-- [ ] 10- Average Time of Process per Machine
+- [X] [10- Average Time of Process per Machine](./10-%20Average%20Time%20of%20Process%20per%20Machine.sql)
 - [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
 - [ ] 12- Students and Examinations
 - [ ] 13- Managers with at Least 5 Direct Reports
