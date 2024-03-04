@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![26%](https://progress-bar.dev/26/?title=In%20progress)
+![28%](https://progress-bar.dev/28/?title=In%20progress)
 
 ## All Challenges :
 
