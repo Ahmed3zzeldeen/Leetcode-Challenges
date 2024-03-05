@@ -15,14 +15,14 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![0%](https://progress-bar.dev/0/?title=Not%20Started)
+![6%](https://progress-bar.dev/6/?title=Not%20Started)
 
 
 ## All Challenges :
 
 - **Array / String**
-- [ ] Merge Strings Alternately
-- [ ] Greatest Common Divisor of Strings
+- [X] [Merge Strings Alternately](./Problem_01.java)
+- [X] [Greatest Common Divisor of Strings](./Problem_02.ts)
 - [ ] Kids With the Greatest Number of Candies
 - [ ] Can Place Flowers
 - [ ] Reverse Vowels of a String
@@ -71,7 +71,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Binary Tree Right Side View
 - [ ] Maximum Level Sum of a Binary Tree
 - **Binary Search Tree**
-- [ ] Search in a Binary Search Tree
+- [X] [Search in a Binary Search Tree](./E700_SearchInABinarySearchTree.java)
 - [ ] Delete Node in a BST
 - **Graphs - DFS**
 - [ ] Keys and Rooms
@@ -87,7 +87,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Maximum Subsequence Score
 - [ ] Total Cost to Hire K Workers
 - **Binary Search**
-- [ ] Guess Number Higher or Lower
+- [X] [Guess Number Higher or Lower](./E374_GuessNumberHigherOrLower.java)
 - [ ] Successful Pairs of Spells and Potions
 - [ ] Find Peak Element
 - [ ] Koko Eating Bananas
