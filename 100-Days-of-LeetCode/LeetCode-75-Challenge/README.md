@@ -15,7 +15,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![6%](https://progress-bar.dev/6/?title=Not%20Started)
+![7%](https://progress-bar.dev/7/?title=Not%20Started)
 
 
 ## All Challenges :
@@ -56,7 +56,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Number of Recent Calls
 - [ ] Dota2 Senate
 - **Linked List**
-- [ ] Delete the Middle Node of a Linked List
+- [X] [Delete the Middle Node of a Linked List](./E237_DeleteNodeInALinkedList.java)
 - [ ] Odd Even Linked List
 - [ ] Reverse Linked List
 - [ ] Maximum Twin Sum of a Linked List
