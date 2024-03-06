@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![32%](https://progress-bar.dev/32/?title=In%20progress)
+![34%](https://progress-bar.dev/34/?title=In%20progress)
 
 ## All Challenges :
 
@@ -31,7 +31,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [09- Rising Temperature](./09-%20Rising%20Temperature.sql)
 - [X] [10- Average Time of Process per Machine](./10-%20Average%20Time%20of%20Process%20per%20Machine.sql)
 - [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
-- [ ] 12- Students and Examinations
+- [X] [12- Students and Examinations](./12-%20Students%20and%20Examinations.sql)
 - [ ] 13- Managers with at Least 5 Direct Reports
 - [ ] 14- Confirmation Rate
 - **Basic Aggregate Functions**
