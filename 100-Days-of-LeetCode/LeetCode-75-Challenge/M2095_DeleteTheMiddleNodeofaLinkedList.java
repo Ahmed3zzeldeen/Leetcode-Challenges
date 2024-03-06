@@ -2,7 +2,7 @@
 /**
  * E2095_DeleteTheMiddleNodeofaLinkedList
  */
-public class E2095_DeleteTheMiddleNodeofaLinkedList {
+public class M2095_DeleteTheMiddleNodeofaLinkedList {
 
   public static void main(String[] args) {
     ListNode head = new ListNode(1);

@@ -56,7 +56,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Number of Recent Calls
 - [ ] Dota2 Senate
 - **Linked List**
-- [X] [Delete the Middle Node of a Linked List](./E237_DeleteNodeInALinkedList.java)
+- [X] [Delete the Middle Node of a Linked List](./M2095_DeleteTheMiddleNodeofaLinkedList.java)
 - [ ] Odd Even Linked List
 - [ ] Reverse Linked List
 - [ ] Maximum Twin Sum of a Linked List
