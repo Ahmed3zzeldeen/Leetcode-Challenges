@@ -15,7 +15,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![7%](https://progress-bar.dev/7/?title=Not%20Started)
+![9%](https://progress-bar.dev/9/?title=Not%20Started)
 
 
 ## All Challenges :
@@ -49,7 +49,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Determine if Two Strings Are Close
 - [ ] Equal Row and Column Pairs
 - **Stack**
-- [ ] Removing Stars From a String
+- [X] [Removing Stars From a String](./M2390_RemovingStarsFromaString.java)
 - [ ] Asteroid Collision
 - [ ] Decode String
 - **Queue**
