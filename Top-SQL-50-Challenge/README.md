@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![34%](https://progress-bar.dev/34/?title=In%20progress)
+![36%](https://progress-bar.dev/36/?title=In%20progress)
 
 ## All Challenges :
 
@@ -35,7 +35,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 13- Managers with at Least 5 Direct Reports
 - [ ] 14- Confirmation Rate
 - **Basic Aggregate Functions**
-- [ ] 15- Not Boring Movies
+- [X] [15- Not Boring Movies](./15-%20Not%20Boring%20Movies.sql)
 - [ ] 16- Average Selling Price
 - [ ] 17- Project Employees I
 - [ ] 18- Percentage of Users Attended a Contest
