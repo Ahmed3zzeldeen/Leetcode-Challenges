@@ -23,7 +23,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - **Array / String**
 - [X] [Merge Strings Alternately](./Problem_01.java)
 - [X] [Greatest Common Divisor of Strings](./Problem_02.ts)
-- [ ] Kids With the Greatest Number of Candies
+- [X] [Kids With the Greatest Number of Candies](./E1431_KidsWiththeGreatestNumberofCandies.ts)
 - [ ] Can Place Flowers
 - [ ] Reverse Vowels of a String
 - [ ] Reverse Words in a String
