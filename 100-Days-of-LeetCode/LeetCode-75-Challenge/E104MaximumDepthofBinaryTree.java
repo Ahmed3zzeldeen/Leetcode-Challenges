@@ -13,7 +13,7 @@
  * }
  * }
  */
-public class MaximumDepthOfBinaryTree {
+public class E104MaximumDepthofBinaryTree {
     public static void main(String[] args) {
         TreeNode node = new TreeNode(3 , new TreeNode(9) , new TreeNode(20 , new TreeNode(15) , new TreeNode(7)));
         System.out.println(maxDepth(node)); // 3

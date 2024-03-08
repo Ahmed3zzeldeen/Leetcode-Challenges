@@ -21,8 +21,8 @@ The purpose of this challenge is to improve my problem solving skills and become
 ## All Challenges :
 
 - **Array / String**
-- [X] [Merge Strings Alternately](./Problem_01.java)
-- [X] [Greatest Common Divisor of Strings](./Problem_02.ts)
+- [X] [Merge Strings Alternately](./E1768_MergeStringsAlternately.java)
+- [X] [Greatest Common Divisor of Strings](./E1071_GreatestCommonDivisorofStrings.ts)
 - [X] [Kids With the Greatest Number of Candies](./E1431_KidsWiththeGreatestNumberofCandies.ts)
 - [ ] Can Place Flowers
 - [ ] Reverse Vowels of a String
@@ -61,7 +61,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Reverse Linked List
 - [ ] Maximum Twin Sum of a Linked List
 - **Binary Tree - DFS**
-- [X] [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.java)
+- [X] [Maximum Depth of Binary Tree](./E104MaximumDepthofBinaryTree.java)
 - [ ] Leaf-Similar Trees
 - [ ] Count Good Nodes in Binary Tree
 - [ ] Path Sum III
