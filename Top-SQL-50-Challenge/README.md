@@ -32,7 +32,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [10- Average Time of Process per Machine](./10-%20Average%20Time%20of%20Process%20per%20Machine.sql)
 - [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
 - [X] [12- Students and Examinations](./12-%20Students%20and%20Examinations.sql)
-- [ ] 13- Managers with at Least 5 Direct Reports
+- [X] [13- Managers with at Least 5 Direct Reports](./13-%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
 - [ ] 14- Confirmation Rate
 - **Basic Aggregate Functions**
 - [X] [15- Not Boring Movies](./15-%20Not%20Boring%20Movies.sql)
