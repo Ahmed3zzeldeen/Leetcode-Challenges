@@ -8,14 +8,20 @@ This repository contains my solutions to the LeetCode 75 Challenge. The challeng
 > 2. Must-do problem list for interview prep
 > 3. Best for 1~3 months of prep time
 
+<div style="display:flex; justify-content:space-between ; flex-wrap:wrap">
+<div style="max-width:500px" >
+
 ## Motivation
+
 The purpose of this challenge is to improve my problem solving skills and become more proficient in algorithms and data structures and earn this badge on Leetcode.
 
-![LeetCode-75-Challenge Award](https://assets.leetcode.com/static_assets/others/LeetCode_75.gif)
+</div>
+<img style="max-width:250px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode-75-Challenge Award"/>
+</div>
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![9%](https://progress-bar.dev/9/?title=Not%20Started)
+![15%](https://progress-bar.dev/15/?title=In%20progress)
 
 
 ## All Challenges :
@@ -42,7 +48,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Longest Subarray of 1's After Deleting One Element
 - **Prefix Sum**
 - [ ] Find the Highest Altitude
-- [ ] Find Pivot Index
+- [X] [Find Pivot Index](./E724FindPivotIndex.ts)
 - **Hash Map / Set**
 - [ ] Find the Difference of Two Arrays
 - [ ] Unique Number of Occurrences
@@ -58,7 +64,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - **Linked List**
 - [X] [Delete the Middle Node of a Linked List](./M2095_DeleteTheMiddleNodeofaLinkedList.java)
 - [ ] Odd Even Linked List
-- [ ] Reverse Linked List
+- [X] [Reverse Linked List](./E206_ReverseLinkedList.java)
 - [ ] Maximum Twin Sum of a Linked List
 - **Binary Tree - DFS**
 - [X] [Maximum Depth of Binary Tree](./E104MaximumDepthofBinaryTree.java)
@@ -100,7 +106,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] House Robber
 - [ ] Domino and Tromino Tiling
 - **DP - Multidimensional**
-- [ ] Unique Paths
+- [X] [Unique Paths](./M62_UniquePaths.java)
 - [ ] Longest Common Subsequence
 - [ ] Best Time to Buy and Sell Stock with Transaction Fee
 - [ ] Edit Distance
