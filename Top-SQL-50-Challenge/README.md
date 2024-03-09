@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![38%](https://progress-bar.dev/38/?title=In%20progress)
+![40%](https://progress-bar.dev/40/?title=In%20progress)
 
 ## All Challenges :
 
@@ -33,7 +33,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [11- Employee Bonus](./11-%20Employee%20Bonus.sql)
 - [X] [12- Students and Examinations](./12-%20Students%20and%20Examinations.sql)
 - [X] [13- Managers with at Least 5 Direct Reports](./13-%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)
-- [ ] 14- Confirmation Rate
+- [X] [14- Confirmation Rate](./14-%20Confirmation%20Rate.sql)
 - **Basic Aggregate Functions**
 - [X] [15- Not Boring Movies](./15-%20Not%20Boring%20Movies.sql)
 - [ ] 16- Average Selling Price
