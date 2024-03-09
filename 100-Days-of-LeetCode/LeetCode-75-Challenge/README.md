@@ -21,7 +21,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![15%](https://progress-bar.dev/15/?title=In%20progress)
+![16%](https://progress-bar.dev/16/?title=In%20progress)
 
 
 ## All Challenges :
@@ -30,7 +30,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [X] [Merge Strings Alternately](./E1768_MergeStringsAlternately.java)
 - [X] [Greatest Common Divisor of Strings](./E1071_GreatestCommonDivisorofStrings.ts)
 - [X] [Kids With the Greatest Number of Candies](./E1431_KidsWiththeGreatestNumberofCandies.ts)
-- [ ] Can Place Flowers
+- [X] [Can Place Flowers](./E605_CanPlaceFlowers.ts)
 - [ ] Reverse Vowels of a String
 - [ ] Reverse Words in a String
 - [ ] Product of Array Except Self
