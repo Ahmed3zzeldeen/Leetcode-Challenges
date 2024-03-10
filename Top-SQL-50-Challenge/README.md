@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![40%](https://progress-bar.dev/40/?title=In%20progress)
+![42%](https://progress-bar.dev/42/?title=In%20progress)
 
 ## All Challenges :
 
@@ -36,7 +36,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [14- Confirmation Rate](./14-%20Confirmation%20Rate.sql)
 - **Basic Aggregate Functions**
 - [X] [15- Not Boring Movies](./15-%20Not%20Boring%20Movies.sql)
-- [ ] 16- Average Selling Price
+- [X] [16- Average Selling Price](./16-%20Average%20Selling%20Price.sql)
 - [ ] 17- Project Employees I
 - [ ] 18- Percentage of Users Attended a Contest
 - [ ] 19- Queries Quality and Percentage
