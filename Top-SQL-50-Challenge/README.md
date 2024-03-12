@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![44%](https://progress-bar.dev/44/?title=In%20progress)
+![46%](https://progress-bar.dev/46/?title=In%20progress)
 
 ## All Challenges :
 
@@ -66,7 +66,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 40- Restaurant Growth
 - [ ] 41- Friend Requests II: Who Has the Most Friends
 - [ ] 42- Investments in 2016
-- [ ] 43- Department Top Three Salaries
+- [X] [43- Department Top Three Salaries](./43-%20Department%20Top%20Three%20Salaries.sql)
 - **Advanced String Functions / Regex / Clause**
 - [ ] 44- Fix Names in a Table
 - [ ] 45- Patients With a Condition
