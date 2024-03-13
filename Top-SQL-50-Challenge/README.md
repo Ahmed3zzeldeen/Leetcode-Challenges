@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![46%](https://progress-bar.dev/46/?title=In%20progress)
+![48%](https://progress-bar.dev/48/?title=In%20progress)
 
 ## All Challenges :
 
@@ -38,7 +38,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [15- Not Boring Movies](./15-%20Not%20Boring%20Movies.sql)
 - [X] [16- Average Selling Price](./16-%20Average%20Selling%20Price.sql)
 - [X] [17- Project Employees I](./17-%20Project%20Employees%20I.sql)
-- [ ] 18- Percentage of Users Attended a Contest
+- [X] [18- Percentage of Users Attended a Contest](./18-%20Percentage%20of%20Users%20Attended%20a%20Contest.sql)
 - [ ] 19- Queries Quality and Percentage
 - [ ] 20- Monthly Transactions I
 - [ ] 21- Immediate Food Delivery II
