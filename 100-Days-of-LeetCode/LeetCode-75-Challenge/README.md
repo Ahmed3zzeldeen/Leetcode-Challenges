@@ -21,7 +21,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![18%](https://progress-bar.dev/18/?title=In%20progress)
+![20%](https://progress-bar.dev/20/?title=In%20progress)
 
 
 ## All Challenges :
@@ -37,7 +37,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [ ] Increasing Triplet Subsequence
 - [ ] String Compression
 - **Two Pointers**
-- [ ] Move Zeroes
+- [X] [Move Zeroes](./E283_MoveZeroes.ts)
 - [ ] Is Subsequence
 - [ ] Container With Most Water
 - [ ] Max Number of K-Sum Pairs
