@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![52%](https://progress-bar.dev/52/?title=In%20progress)
+![54%](https://progress-bar.dev/54/?title=In%20progress)
 
 ## All Challenges :
 
@@ -44,7 +44,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 21- Immediate Food Delivery II
 - [ ] 22- Game Play Analysis IV
 - **Sorting and Grouping**
-- [ ] 23- Number of Unique Subjects Taught by Each Teacher
+- [X] [23- Number of Unique Subjects Taught by Each Teacher](./23-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
 - [X] [24- User Activity for the Past 30 Days I](./24-%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
 - [X] [25- Product Sales Analysis III](./25-%20Product%20Sales%20Analysis%20III.sql)
 - [X] [26- Classes More Than 5 Students](./26-%20Classes%20More%20Than%205%20Students.sql)
