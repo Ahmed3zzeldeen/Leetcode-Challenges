@@ -41,7 +41,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [18- Percentage of Users Attended a Contest](./18-%20Percentage%20of%20Users%20Attended%20a%20Contest.sql)
 - [X] [19- Queries Quality and Percentage](./19-%20Queries%20Quality%20and%20Percentage.sql)
 - [X] [20- Monthly Transactions I](./20-%20Monthly%20Transactions%20I.sql)
-- [ ] 21- Immediate Food Delivery II
+- [X] [21- Immediate Food Delivery II](./21-%20Immediate%20Food%20Delivery%20II.sql)
 - [ ] 22- Game Play Analysis IV
 - **Sorting and Grouping**
 - [X] [23- Number of Unique Subjects Taught by Each Teacher](./23-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
