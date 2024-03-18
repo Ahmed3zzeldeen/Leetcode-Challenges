@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![54%](https://progress-bar.dev/54/?title=In%20progress)
+![56%](https://progress-bar.dev/56/?title=In%20progress)
 
 ## All Challenges :
 
@@ -42,7 +42,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [19- Queries Quality and Percentage](./19-%20Queries%20Quality%20and%20Percentage.sql)
 - [X] [20- Monthly Transactions I](./20-%20Monthly%20Transactions%20I.sql)
 - [X] [21- Immediate Food Delivery II](./21-%20Immediate%20Food%20Delivery%20II.sql)
-- [ ] 22- Game Play Analysis IV
+- [X] [22- Game Play Analysis IV](./22-%20Game%20Play%20Analysis%20IV.sql)
 - **Sorting and Grouping**
 - [X] [23- Number of Unique Subjects Taught by Each Teacher](./23-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)
 - [X] [24- User Activity for the Past 30 Days I](./24-%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
