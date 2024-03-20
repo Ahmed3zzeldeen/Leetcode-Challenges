@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![56%](https://progress-bar.dev/56/?title=In%20progress)
+![58%](https://progress-bar.dev/58/?title=In%20progress)
 
 ## All Challenges :
 
@@ -48,7 +48,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [24- User Activity for the Past 30 Days I](./24-%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
 - [X] [25- Product Sales Analysis III](./25-%20Product%20Sales%20Analysis%20III.sql)
 - [X] [26- Classes More Than 5 Students](./26-%20Classes%20More%20Than%205%20Students.sql)
-- [ ] 27- Find Followers Count
+- [X] [27- Find Followers Count](./27-%20Find%20Followers%20Count.sql)
 - [ ] 28- Biggest Single Number
 - [ ] 29- Customers Who Bought All Products
 - **Advanced Select and Joins**
