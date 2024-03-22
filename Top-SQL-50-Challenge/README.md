@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![60%](https://progress-bar.dev/60/?title=In%20progress)
+![62%](https://progress-bar.dev/62/?title=In%20progress)
 
 ## All Challenges :
 
@@ -49,7 +49,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [25- Product Sales Analysis III](./25-%20Product%20Sales%20Analysis%20III.sql)
 - [X] [26- Classes More Than 5 Students](./26-%20Classes%20More%20Than%205%20Students.sql)
 - [X] [27- Find Followers Count](./27-%20Find%20Followers%20Count.sql)
-- [ ] 28- Biggest Single Number
+- [X] [28- Biggest Single Number](./28-%20Biggest%20Single%20Number.sql)
 - [ ] 29- Customers Who Bought All Products
 - **Advanced Select and Joins**
 - [ ] 30- The Number of Employees Which Report to Each Employee
