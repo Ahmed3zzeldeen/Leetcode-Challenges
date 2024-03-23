@@ -21,7 +21,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 
 **_To Join in this challenge :_** [LeetCode-75-Challenge](https://leetcode.com/studyplan/leetcode-75/)
 
-![24%](https://progress-bar.dev/24/?title=In%20progress)
+![25%](https://progress-bar.dev/25/?title=In%20progress)
 
 
 ## All Challenges :
@@ -35,7 +35,7 @@ The purpose of this challenge is to improve my problem solving skills and become
 - [X] [Reverse Words in a String](./M151_ReverseWordsinaString.ts)
 - [X] [Product of Array Except Self](./M238_ProductofArrayExceptSelf.ts)
 - [X] [Increasing Triplet Subsequence](./M334_IncreasingTripletSubsequence.ts)
-- [ ] String Compression
+- [X] [String Compression](./M443_StringCompression.ts)
 - **Two Pointers**
 - [X] [Move Zeroes](./E283_MoveZeroes.ts)
 - [X] [Is Subsequence](./E392_IsSubsequence.ts)
