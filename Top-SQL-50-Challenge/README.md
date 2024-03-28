@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![68%](https://progress-bar.dev/68/?title=In%20progress)
+![70%](https://progress-bar.dev/70/?title=In%20progress)
 
 ## All Challenges :
 
@@ -54,7 +54,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - **Advanced Select and Joins**
 - [X] [30- The Number of Employees Which Report to Each Employee](./30-%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)
 - [X] [31- Primary Department for Each Employee](./31-%20Primary%20Department%20for%20Each%20Employee.sql)
-- [ ] 32- Triangle Judgement
+- [X] [32- Triangle Judgement](./32-%20Triangle%20Judgement.sql)
 - [ ] 33- Consecutive Numbers
 - [ ] 34- Product Price at a Given Date
 - [ ] 35- Last Person to Fit in the Bus
