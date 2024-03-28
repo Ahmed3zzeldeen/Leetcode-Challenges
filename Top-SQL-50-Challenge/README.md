@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![66%](https://progress-bar.dev/66/?title=In%20progress)
+![68%](https://progress-bar.dev/68/?title=In%20progress)
 
 ## All Challenges :
 
@@ -53,7 +53,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [29- Customers Who Bought All Products](./29-%20Customers%20Who%20Bought%20All%20Products.sql)
 - **Advanced Select and Joins**
 - [X] [30- The Number of Employees Which Report to Each Employee](./30-%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)
-- [ ] 31- Primary Department for Each Employee
+- [X] [31- Primary Department for Each Employee](./31-%20Primary%20Department%20for%20Each%20Employee.sql)
 - [ ] 32- Triangle Judgement
 - [ ] 33- Consecutive Numbers
 - [ ] 34- Product Price at a Given Date
