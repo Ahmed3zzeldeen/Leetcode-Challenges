@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![78%](https://progress-bar.dev/78/?title=In%20progress)
+![80%](https://progress-bar.dev/80/?title=In%20progress)
 
 ## All Challenges :
 
@@ -60,7 +60,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [35- Last Person to Fit in the Bus](./35-%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql)
 - [X] [36- Count Salary Categories](./36-%20Count%20Salary%20Categories.sql)
 - **Subqueries**
-- [ ] 37- Employees Whose Manager Left the Company
+- [X] [37- Employees Whose Manager Left the Company](./37-%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)
 - [ ] 38- Exchange Seats
 - [ ] 39- Movie Rating
 - [ ] 40- Restaurant Growth
