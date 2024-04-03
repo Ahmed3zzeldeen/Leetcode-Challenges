@@ -55,7 +55,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [30- The Number of Employees Which Report to Each Employee](./30-%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)
 - [X] [31- Primary Department for Each Employee](./31-%20Primary%20Department%20for%20Each%20Employee.sql)
 - [X] [32- Triangle Judgement](./32-%20Triangle%20Judgement.sql)
-- [ ] 33- Consecutive Numbers
+- [X] [33- Consecutive Numbers](./33-%20Consecutive%20Numbers.sql)
 - [ ] 34- Product Price at a Given Date
 - [ ] 35- Last Person to Fit in the Bus
 - [ ] 36- Count Salary Categories

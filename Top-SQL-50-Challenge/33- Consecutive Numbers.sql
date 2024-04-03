@@ -1,0 +1,15 @@
+/* Write your PL/SQL query statement below */
+SELECT
+  DISTINCT(NUM) AS CONSECUTIVENUMS
+FROM
+  (
+    SELECT
+      NUM,
+      LAG(NUM) OVER(ORDER BY ID) AS PREV_NUM,
+      LEAD(NUM) OVER(ORDER BY ID) AS NEXT_NUM
+    FROM
+      LOGS
+  ) T
+WHERE
+  T.NUM = T.PREV_NUM
+  AND T.PREV_NUM = T.NEXT_NUM
