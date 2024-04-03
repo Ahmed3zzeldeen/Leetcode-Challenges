@@ -1,0 +1,18 @@
+/* Write your PL/SQL query statement below */
+SELECT
+  PERSON_NAME
+FROM
+  (
+    SELECT
+      TURN,
+      PERSON_ID AS ID,
+      PERSON_NAME,
+      SUM(WEIGHT) OVER (ORDER BY TURN) AS TOTAL_WEIGHT
+    FROM
+      QUEUE
+    ORDER BY
+      TOTAL_WEIGHT DESC
+  )
+WHERE
+  TOTAL_WEIGHT<=1000
+  AND ROWNUM =1;
