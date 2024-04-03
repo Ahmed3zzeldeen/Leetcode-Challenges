@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![70%](https://progress-bar.dev/70/?title=In%20progress)
+![78%](https://progress-bar.dev/78/?title=In%20progress)
 
 ## All Challenges :
 
@@ -56,9 +56,9 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [31- Primary Department for Each Employee](./31-%20Primary%20Department%20for%20Each%20Employee.sql)
 - [X] [32- Triangle Judgement](./32-%20Triangle%20Judgement.sql)
 - [X] [33- Consecutive Numbers](./33-%20Consecutive%20Numbers.sql)
-- [ ] 34- Product Price at a Given Date
-- [ ] 35- Last Person to Fit in the Bus
-- [ ] 36- Count Salary Categories
+- [X] [34- Product Price at a Given Date](./34-%20Product%20Price%20at%20a%20Given%20Date.sql)
+- [X] [35- Last Person to Fit in the Bus](./35-%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql)
+- [X] [36- Count Salary Categories](./36-%20Count%20Salary%20Categories.sql)
 - **Subqueries**
 - [ ] 37- Employees Whose Manager Left the Company
 - [ ] 38- Exchange Seats
