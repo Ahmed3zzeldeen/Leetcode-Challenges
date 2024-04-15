@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![80%](https://progress-bar.dev/80/?title=In%20progress)
+![82%](https://progress-bar.dev/82/?title=In%20progress)
 
 ## All Challenges :
 
@@ -68,7 +68,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [ ] 42- Investments in 2016
 - [X] [43- Department Top Three Salaries](./43-%20Department%20Top%20Three%20Salaries.sql)
 - **Advanced String Functions / Regex / Clause**
-- [ ] 44- Fix Names in a Table
+- [X] [44- Fix Names in a Table](./44-%20Fix%20Names%20in%20a%20Table.sql)
 - [ ] 45- Patients With a Condition
 - [X] [46- Delete Duplicate Emails](./46-%20Delete%20Duplicate%20Emails.sql)
 - [X] [47- Second Highest Salary](./47-%20Second%20Highest%20Salary.sql)
