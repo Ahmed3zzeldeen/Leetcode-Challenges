@@ -1,0 +1,46 @@
+/* Write your PL/SQL query statement below */
+SELECT
+  NAME  AS RESULTS
+FROM
+  (
+    SELECT
+      NAME,
+      USER_ID,
+      COUNT(MOVIE_ID)
+    FROM
+      MOVIERATING
+      LEFT JOIN USERS
+      USING(USER_ID)
+    GROUP BY
+      NAME,
+      USER_ID
+    ORDER BY
+      COUNT(MOVIE_ID) DESC,
+      NAME ASC
+  )
+WHERE
+  ROWNUM =1
+UNION
+ALL
+SELECT
+  TITLE AS RESULTS
+FROM
+  (
+    SELECT
+      TITLE,
+      AVG(RATING)
+    FROM
+      MOVIERATING
+      LEFT JOIN MOVIES
+      USING(MOVIE_ID)
+    WHERE
+      CREATED_AT >= '2020-02-01'
+      AND CREATED_AT <= '2020-02-28'
+    GROUP BY
+      TITLE
+    ORDER BY
+      AVG(RATING) DESC,
+      TITLE ASC
+  )
+WHERE
+  ROWNUM =1
