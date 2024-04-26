@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![96%](https://progress-bar.dev/96/?title=In%20progress)
+![98%](https://progress-bar.dev/98/?title=In%20progress)
 
 ## All Challenges :
 
@@ -73,7 +73,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [46- Delete Duplicate Emails](./46-%20Delete%20Duplicate%20Emails.sql)
 - [X] [47- Second Highest Salary](./47-%20Second%20Highest%20Salary.sql)
 - [X] [48- Group Sold Products By The Date](./48-%20Group%20Sold%20Products%20By%20The%20Date.sql)
-- [ ] 49- List the Products Ordered in a Period
+- [X] [49- List the Products Ordered in a Period](./49-%20List%20the%20Products%20Ordered%20in%20a%20Period.sql)
 - [ ] 50- Find Users With Valid E-Mails
 
 
