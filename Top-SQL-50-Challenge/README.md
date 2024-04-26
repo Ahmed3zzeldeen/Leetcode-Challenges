@@ -14,7 +14,7 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 
 **_To Join in this challenge :_** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
-![90%](https://progress-bar.dev/90/?title=In%20progress)
+![94%](https://progress-bar.dev/94/?title=In%20progress)
 
 ## All Challenges :
 
@@ -64,8 +64,8 @@ This repository contains my solutions to the top 50 SQL questions on LeetCode. E
 - [X] [38- Exchange Seats](./38-%20Exchange%20Seats.sql)
 - [X] [39- Movie Rating](./39-%20Movie%20Rating.sql)
 - [X] [40- Restaurant Growth](./40-%20Restaurant%20Growth.sql)
-- [ ] 41- Friend Requests II: Who Has the Most Friends
-- [ ] 42- Investments in 2016
+- [X] [41- Friend Requests II: Who Has the Most Friends](./41-%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)
+- [X] [42- Investments in 2016](./42-%20Investments%20in%202016.sql)
 - [X] [43- Department Top Three Salaries](./43-%20Department%20Top%20Three%20Salaries.sql)
 - **Advanced String Functions / Regex / Clause**
 - [X] [44- Fix Names in a Table](./44-%20Fix%20Names%20in%20a%20Table.sql)
